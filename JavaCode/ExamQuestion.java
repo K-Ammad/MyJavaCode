@@ -43,7 +43,7 @@ public class ExamQuestion
 		    System.out.print(i + " ");
 		}
 	  }
-	}			
+	}
 	else  if (optionSelect == 3)
 	{
 	 System.out.println("Enter the Number who's multiple you want: ");
